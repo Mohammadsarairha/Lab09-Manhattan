@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OU2iPBf3aiqZrUkBBiL6zZr9dGplFR/0Bkcp1BAiNeIdqVPx/+sM+3RtbKV25eUPjbbgjvvE+O3HUf8Hieu7kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\DotnetProject\\Lab09-Manhattan\\Lab09-Manhattan\\Lab09-Manhattan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
