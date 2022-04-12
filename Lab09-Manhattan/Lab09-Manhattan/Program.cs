@@ -25,9 +25,7 @@ namespace Lab09_Manhattan
         public class RootObject
         {
             public string type { get; set; }
-
             public List<Feature> features { get; set; }
-
             public static RootObject getData()
             {
                 string Read = File.ReadAllText("data.json");
